@@ -1,0 +1,115 @@
+{
+    "ad": "ÜMUMİ SUALLAR",
+    "test": [
+        {
+            "s": "Hansı heyvanın qırılan sümüyü qaynamır?",
+            "c": [
+                "Pişik",
+                "Dələ",
+                "At",
+                "Meymun",
+                "Zürafə"
+            ],
+            "d": 2
+        },
+        {
+            "s": "4 ədəd dizi olan yeganə heyvan hansıdır?",
+            "c": [
+                "Dələ",
+                "Zürafə",
+                "Ceyran",
+                "Fil",
+                "Dəvə"
+            ],
+            "d": 3
+        },
+        {
+            "s": "Hansı canlının qanı bəyazdır?",
+            "c": [
+                "Hörümcək",
+                "Maral",
+                "İlbiz",
+                "Kəpənək",
+                "Çəyirtkə"
+            ],
+            "d": 2
+        },
+        {
+            "s": "2010-cu ildə dünya kubokunu hansı ölkə qazanıb?",
+            "c": [
+                "İspaniya",
+                "Hollandiya",
+                "Braziliya",
+                "Macarıstan",
+                "Fransa"
+            ],
+            "d": 0
+        },
+        {
+            "s": "Kişilərin saqqalları hansı fəsildə daha çox uzanır?",
+            "c": [
+                "Qış",
+                "Bahar",
+                "Yay",
+                "Payız",
+                "Fərqi yoxdur"
+            ],
+            "d": 4
+        },
+        {
+            "s": "Hansı heyvanın gözləri 4 ayaqlarınıda görəbiləcək şəkildədir?",
+            "c": [
+                "Zürafə",
+                "Balıq",
+                "Ceyran",
+                "Eşşək",
+                "Ayı"
+            ],
+            "d": 2
+        },
+        {
+            "s": "Hansı ölkədə heç tualet yoxdur?",
+            "c": [
+                "Peru",
+                "Türkiyə",
+                "İran",
+                "Kanada",
+                "Kuba"
+            ],
+            "d": 0
+        },
+        {
+            "s": "Hansı heyvanın 3 qaşı var?",
+            "c": [
+                "Meymun",
+                "İnək",
+                "Dəvə",
+                "İt",
+                "Zürafə"
+            ],
+            "d": 2
+        },
+        {
+            "s": "Dünya futbol çempionatının hamsında iştirak edən ölkə hansıdır?",
+            "c": [
+                "Fransa",
+                "Braziliya",
+                "İspaniya",
+                "İngiltərə",
+                "Uruqray"
+            ],
+            "d": 1
+        },
+        {
+            "s": "İnsandan başqa digər hansı canlı zövq üçün cinsi əlaqədə olur?",
+            "c": [
+                "Ayı",
+                "Meymun",
+                "Dələ",
+                "Dovşan",
+                "Delfin"
+            ],
+            "d": 4
+        }
+    ]
+}
