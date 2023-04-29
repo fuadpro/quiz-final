@@ -62,7 +62,7 @@ function netice(json) {
 
 function init() {
     const ajax = new XMLHttpRequest();
-    ajax.open('GET', 'quiz.json');
+    ajax.open('GET', '../data/quiz.json');
     ajax.send();
     ajax.onload = function () {
         json = JSON.parse(ajax.responseText);
